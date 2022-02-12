@@ -1,2 +1,2 @@
-# CV.github.io
+# completehtml.github.io
 first html lecture 
